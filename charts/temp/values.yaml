@@ -52,7 +52,7 @@ ingress:
       paths:
         - path: /
           pathType: Prefix
-  tls: []
+  tls:
    - secretName: test-tls
      hosts:
        - test.131.153.227.114.sslip.io
