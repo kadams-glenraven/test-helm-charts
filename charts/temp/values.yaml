@@ -52,10 +52,10 @@ ingress:
       paths:
         - path: /
           pathType: Prefix
-  tls:
-   - secretName: test-tls
-     hosts:
-       - test.131.153.227.114.sslip.io
+  tls: []
+   # - secretName: test-tls
+   #   hosts:
+   #     - test.131.153.227.114.sslip.io
 
 resources: {}
   # We usually recommend not to specify default resources and to leave this as a conscious
