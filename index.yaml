@@ -3,6 +3,16 @@ entries:
   temp:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-08-02T15:25:38.782331881Z"
+    description: A Helm chart for Kubernetes
+    digest: c3ceaa6530a0c5dd191739f3d2c4e992756667ba5ed1840dfc8942a9e6cf21bb
+    name: temp
+    type: application
+    urls:
+    - https://github.com/kadams-glenraven/test-helm-charts/releases/download/temp-0.1.2/temp-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-08-01T21:09:13.277549075Z"
     description: A Helm chart for Kubernetes
     digest: 25ba09b464ae5b3e9410411b3a25d795fc0d17cf26c8e9e4beb18cdf49f91f37
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/kadams-glenraven/test-helm-charts/releases/download/temp-0.1.0/temp-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-01T21:09:13.277561075Z"
+generated: "2023-08-02T15:25:38.782344281Z"
