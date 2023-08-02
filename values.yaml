@@ -47,7 +47,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: test.131.153.227.114.sslip.io
+    - host: lap.131.153.227.114.sslip.io
       paths:
         - path: /
           pathType: ImplementationSpecific
